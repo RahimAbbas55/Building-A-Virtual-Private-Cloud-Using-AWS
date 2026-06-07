@@ -17,7 +17,7 @@
 
 ## Introducing Today's Project!
 
-'m doing this project to learn the basics of setting up a VPC network and get the insights on it to improve my knowledge of this technology.
+I'm doing this project to learn the basics of setting up a VPC network and get the insights on it to improve my knowledge of this technology.
 
 ### What is Amazon VPC?
 
